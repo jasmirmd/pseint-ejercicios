@@ -1,2 +1,2 @@
 # Ejercicios Pseint
-Ejercicios propuestos en el Laboratorio de Lógica de Programación (Ing en Sistemas).
+Ejercicios propuestos en el Laboratorio de Lógica de Programación (Ingeniería en Sistemas).
