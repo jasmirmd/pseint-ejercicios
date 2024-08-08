@@ -1,3 +1,7 @@
+// Escriba un pseudocódigo que exprese la capacidad de un disco duro en terabytes,
+// megabytes, kilobytes y bytes, conociendo la capacidad del disco en gigabytes.
+// Considere que: 1 Kb = 1024 bytes, 1 Mb = 1024 Kb, 1 Gb = 1024 Mb, 1Tb = 1024 Gb.
+
 Proceso discoDuro
 	Definir bt, kb, mb, gb, tb Como Real;
 	
