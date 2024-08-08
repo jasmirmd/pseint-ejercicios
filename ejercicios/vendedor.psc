@@ -12,5 +12,5 @@ Proceso vendedor
 	
 	sueldoReal = sueldoBase + comisiones;
 	
-	Escribir sueldoReal;
+	Escribir "Sueldo total con comisiones: ", sueldoReal;
 FinProceso
