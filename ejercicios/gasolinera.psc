@@ -9,5 +9,5 @@ Proceso gasolinera
 	
 	precioPago = (cantidadDeGalones * litrosGalon) * litroPrecio;
 	
-	Escribir precioPago;
+	Escribir "Precio a pagar: ", Concatenar('C$', ConvertirATexto(precioPago));
 FinProceso
