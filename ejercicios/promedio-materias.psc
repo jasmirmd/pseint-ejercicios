@@ -3,17 +3,19 @@
 // evalúan como se muestra a continuación:
 //
 // La calificación de Matemáticas se obtiene de la siguiente manera:
-// 		Examen 90%
-// 		Promedio de tareas 10%
-//		En esta materia se pidió un total de tres tareas.
+// Examen 90%
+// Promedio de tareas 10%
+// En esta materia se pidió un total de tres tareas.
+//
 // La calificación de Física se obtiene de la sig. manera:
-//		Examen 80%
-// 		Promedio de tareas 20%
-// 		En esta materia se pidió un total de dos tareas.
+// Examen 80%
+// Promedio de tareas 20%
+// En esta materia se pidió un total de dos tareas.
+//
 // La calificación de Química se obtiene de la sig. manera:
-// 		Examen 85%
-// 		Promedio de tareas 15%
-// 		En esta materia se pidió un promedio de tres tareas.
+// Examen 85%
+// Promedio de tareas 15%
+// En esta materia se pidió un promedio de tres tareas.
 
 Proceso promedioMaterias
     Definir examenMatematicas, tareaMatematica1, tareaMatematica2, tareaMatematica3 Como Real;
