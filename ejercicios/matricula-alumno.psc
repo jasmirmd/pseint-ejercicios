@@ -1,6 +1,6 @@
-//Dada la matrícula y 5 calificaciones de un alumno obtenidas a lo largo del semestre,
-//construya un pseudocódigo que imprima la matrícula del alumno y el promedio de sus
-//calificaciones.
+// Dada la matrícula y 5 calificaciones de un alumno obtenidas a lo largo del semestre,
+// construya un pseudocódigo que imprima la matrícula del alumno y el promedio de sus
+// calificaciones.
 
 Proceso matricula
 	Definir alumnoMatricula Como Entero;
