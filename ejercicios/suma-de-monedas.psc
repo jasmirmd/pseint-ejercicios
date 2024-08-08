@@ -13,6 +13,7 @@
 //		Escribir En , monedasCordobas, " monedas de cordoba y ", monedasCinco, monedas de
 //		C$5 hay un total de ",totalCordobas," cordobas en sus ahorros."
 // FinProceso
+//
 
 Proceso sumaDeMonedas
 	Definir monedasCordoba, monedasCincoCordobas, totalCordobas Como Entero;
