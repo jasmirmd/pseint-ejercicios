@@ -3,16 +3,7 @@
 // únicamente monedas de uno y cinco córdobas. Escriba el resultado.
 // Una posible salida en pantalla podría ser:
 // Pseudocódigo:
-// 
-// Proceso
-//   definir monedasCordobas, monedasCinco como entero;
-// 	  escribir Cuántas monedas de un cordoba hay en la alcancía?:
-//	  leer
-//	  Escribir Cuántas monedas de cinco córdobas hay?
-//	  totalCordobas = monedasCordobas + (monedasCinco * 5)
-//	  Escribir En , monedasCordobas, " monedas de cordoba y ", monedasCinco, monedas de
-//	  C$5 hay un total de ",totalCordobas," cordobas en sus ahorros."
-//  FinProceso
+// Por alguna razon al intentar poner el pseudocodigo comentado se buguean los comentarios JAJA.
 
 Proceso sumaDeMonedas
 	Definir monedasCordoba, monedasCincoCordobas, totalCordobas Como Entero;
